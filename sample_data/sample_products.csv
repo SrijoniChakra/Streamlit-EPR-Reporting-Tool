@@ -1,0 +1,40 @@
+source_system,sku,product_name,material_description,packaging_weight,weight_unit,jurisdiction,recyclable_flag,last_updated
+ERP,SKU-1001,Widget A 250ml Bottle,PET Plastic,25.00,g,UK,Y,2026-01-05
+ERP,SKU-1002,Widget B Multipack,Cardboard,0.12,kg,UK,Y,2026-01-05
+ERP,SKU-1003,Widget C Tube,LDPE film,8.00,g,UK,,2026-01-05
+Supplier,SKU-1001,Widget A 250ml Bottle,plastic - PET,25.00,g,UK,yes,2026-02-11
+Supplier,SKU-1004,Widget D Jar,Glass,150.00,g,UK,Y,2026-02-11
+Manual,SKU-1005,Widget E Sachet,foil laminate,5.00,g,,N,2025-11-20
+ERP,SKU-1006,Widget F Box,corrugated cardboard,90.00,g,France,Y,2026-02-11
+Manual,SKU-1007,Widget G Can,Aluminium,35.00,g,Germany,Y,2025-11-20
+Manual,SKU-1008,Widget H Bottle,PET,0.030,kg,Germany,Y,2025-11-20
+Manual,SKU-1009,Widget I Wrap,plastic film,5.00,g,Germany,,2025-11-20
+ERP,SKU-1010,Widget J Sachet,paper laminate,3.00,g,France,N,2026-01-05
+ERP,SKU-1011,Widget K Bottle,HDPE,22.00,g,France,Y,2026-01-05
+Manual,SKU-1012,Widget L Pouch,mixed plastic/foil,,g,France,N,2025-11-20
+Supplier,SKU-1013,Widget M Blister Pack,PVC,4.00,g,Spain,N,2026-02-11
+Supplier,SKU-1014,Widget N Tub,polypropylene,45.00,g,Spain,Y,2026-02-11
+Supplier,SKU-1015,Widget O Bag,paper,10.00,g,Spain,Y,2026-02-11
+Manual,SKU-1016,Widget P Wrapper,biodegradable film,3.50,g,Italy,Y,2025-11-20
+Manual,SKU-1017,Widget Q Pack,steel,60.00,g,Italy,Y,2025-11-20
+Manual,SKU-1018,Widget R Wrapper,unknown,2.00,g,Italy,,2025-11-20
+Manual,SKU-1019,Widget S Tray,PET,-1.00,g,Italy,N,2025-11-20
+ERP,SKU-1020,Widget T Tray,EPS foam,15.00,g,UK,N,2026-01-05
+Supplier,SKU-1021,Widget U Bottle,PET plastic,0.00,g,France,Y,2026-02-11
+Supplier,SKU-1022,Widget V Pouch,multi-layer laminate (foil/plastic),6.00,g,France,,2026-02-11
+Manual,SKU-1023,Widget W Box,Cardboard,110.00,g,Germany,Y,2025-11-20
+Manual,SKU-1024,Widget X Can,steel/tin,50.00,g,Germany,Y,2025-11-20
+ERP,SKU-1025,Widget Y Bottle,glass amber,0.200,kg,Spain,Y,2026-01-05
+Manual,SKU-1026,Widget Z Sachet,,4.50,g,Netherlands,,2025-11-20
+Supplier,SKU-1027,Widget AA Jar,PP,40.00,g,Italy,Y,2026-02-11
+Supplier,SKU-1028,Widget AB Wrap,cellophane,3.00,g,Italy,N,2026-02-11
+Manual,SKU-1029,Widget AC Bottle,rPET (30% recycled),24.00,g,UK,Y,2025-11-20
+Manual,SKU-1030,Widget AD Box,Kraft paper,80.00,g,UK,Y,2025-11-20
+Manual,SKU-1031,Widget AE Tray,PET,,g,France,,2025-11-20
+ERP,SKU-1032,Widget AF Pack,mixed materials,-5.00,g,France,,2026-01-05
+Supplier,SKU-1033,Widget AG Bottle,PET,28.00,g,Netherlands,Y,2026-02-11
+Supplier,SKU-1034,Widget AH Box,cardboard,95.00,g,Netherlands,Y,2026-02-11
+Manual,SKU-1035,Widget AI Wrap,LDPE,4.00,g,Netherlands,N,2025-11-20
+Manual,SKU-1036,Widget AJ Can,alu,32.00,g,Netherlands,Y,2025-11-20
+ERP,SKU-1037,Widget AK Bottle,PET plastic,26.00,g,Belguim,Y,2026-01-05
+ERP,SKU-1038,Widget AL Box,Cardboard,105.00,g,Belgium,Y,2026-01-05
