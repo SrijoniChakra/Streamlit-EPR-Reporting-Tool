@@ -13,7 +13,7 @@ streamlit run app.py
 
 1. On the **Home** page, upload your product extract CSV and your fee rate table CSV.
    Two example files with realistic messy data are included in `sample_data/` if you want to try
-   the app before using your own files.
+   the app.
 2. Click **Run pipeline**.
 3. Use the sidebar pages to review:
    - **📋 Data Quality Assessment** — Part 1 write-up + auto-detected issues in your file
