@@ -11,8 +11,7 @@ https://github.com/user-attachments/assets/546ad24d-09ce-47b6-847c-5b8f7a34e332
 ## Run it
 
 ```bash
-pip install streamlit pandas
-streamlit run app.py
+pip install -r requirements.txt
 ```
 
 ## How to use it
@@ -22,7 +21,7 @@ streamlit run app.py
    the app.
 2. Click **Run pipeline**.
 3. Use the sidebar pages to review:
-   - **📋 Data Quality Assessment** — Part 1 write-up + auto-detected issues in your file
+   - **📋 Data Quality Assessment** — Data quality findings
    - **🧹 Clean & Standardize** — unit conversion, category mapping, jurisdiction matching, dedup logic
    - **💶 Fee Calculation** — total EPR liability per jurisdiction × material category
    - **⚠️ Exceptions** — every record that couldn't be confidently processed, with a reason code

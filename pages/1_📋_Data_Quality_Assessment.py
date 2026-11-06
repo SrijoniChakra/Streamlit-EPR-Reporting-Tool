@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 
 st.set_page_config(page_title="Data Quality Assessment", page_icon="📋", layout="wide")
-st.title("📋 Part 1 — Data Quality Assessment")
+st.title("📋 Data Quality Assessment")
 
 product_df = st.session_state.get("product_df")
 

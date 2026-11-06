@@ -119,7 +119,7 @@ st.markdown("---")
 st.markdown(
     """
 **Pages (see sidebar):**
-- 📋 **Data Quality Assessment** — Part 1 write-up plus auto-detected issues in your uploaded file
+- 📋 **Data Quality Assessment** — Data quality assessment plus auto-detected issues
 - 🧹 **Clean & Standardize** — unit conversion, category mapping, jurisdiction matching, dedup logic
 - 💶 **Fee Calculation** — total EPR liability per jurisdiction × material category
 - ⚠️ **Exceptions** — every record that couldn't be confidently processed, with a reason code

@@ -1,15 +1,7 @@
 """
 EPR reporting pipeline.
 
-This module contains all the "Part 2" logic for the EPR case study:
- - clean & standardize product data (units, categories, jurisdictions, dedup)
- - join to the fee rate table and compute liability per jurisdiction/category
- - flag records that can't be confidently processed, with a reason code
- - build an audit trail so every output row can be traced back to its
-   source record(s) and the transformations applied to it
-
-Everything here is pure pandas (no Streamlit calls) so it can be unit
-tested / reused independent of the UI.
+This module contains cleaning, standardization, deduplication, and fee calculation logic for the EPR reporting pipeline. 
 """
 
 from __future__ import annotations
