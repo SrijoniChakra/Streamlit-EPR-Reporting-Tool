@@ -1,7 +1,6 @@
 # EPR Reporting Tool
 
-A Streamlit app implementing the EPR (Extended Producer Responsibility) reporting that turns messy supply-chain extracts into an auditable EPR fee report, with full row-level lineage.
-
+A Streamlit app that turns messy supply-chain extracts into an auditable Extended Producer Responsibility (EPR) fee report, with full row-level lineage.
 
 
 https://github.com/user-attachments/assets/546ad24d-09ce-47b6-847c-5b8f7a34e332
