@@ -12,6 +12,7 @@ https://github.com/user-attachments/assets/546ad24d-09ce-47b6-847c-5b8f7a34e332
 
 ```bash
 pip install -r requirements.txt
+streamlit run app.py
 ```
 
 ## How to use it
